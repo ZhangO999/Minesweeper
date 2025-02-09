@@ -1,7 +1,7 @@
 # Minesweeper Game
 This is a **Minesweeper game** implemented in Java using the **Processing** library. The game features classic Minesweeper mechanics, including randomly placed mines, tile reveals, flags, a timer, and explosion animations. The player has the option to specify the number of mines desired before generating the board. 
 
-<img src="minesweeper_prev_1.png" width="600" height="600">
+<img src="minesweeper_prev_1.png" width="600" height="500">
 
 
 ## Features
@@ -19,7 +19,7 @@ This is a **Minesweeper game** implemented in Java using the **Processing** libr
 2. Avoid clicking on a mine!
 3. Use right-click to flag tiles you suspect contain mines.
 
-<img src="minesweeper_prev_2.png" width="600" height="600">
+<img src="minesweeper_prev_2.png" width="600" height="500">
 
 
 
