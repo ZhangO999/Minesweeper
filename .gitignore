@@ -1,0 +1,24 @@
+
+---
+
+## **.gitignore**
+This ensures Git doesn’t track unnecessary files.
+
+```gitignore
+# Ignore compiled Java files
+*.class
+
+# Ignore Processing build files
+/build/
+/out/
+
+# Ignore Gradle files
+.gradle/
+build/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
