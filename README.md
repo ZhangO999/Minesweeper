@@ -1,6 +1,8 @@
 # Minesweeper Game
-![Minesweeper preview 1](minesweeper_prev_1.png)
 This is a **Minesweeper game** implemented in Java using the **Processing** library. The game features classic Minesweeper mechanics, including randomly placed mines, tile reveals, flags, a timer, and explosion animations. The player has the option to specify the number of mines desired before generating the board. 
+
+<img src="minesweeper_prev_1.png" width="300" height="200">
+
 
 ## Features
 * **18x27 Grid** – Mines are randomly placed across the grid.  
@@ -17,8 +19,11 @@ This is a **Minesweeper game** implemented in Java using the **Processing** libr
 2. Avoid clicking on a mine!
 3. Use right-click to flag tiles you suspect contain mines.
 
-![Minesweeper preview 1](minesweeper_prev_2.png)
-![Minesweeper preview 1](minesweeper_prev_3.png)
+<img src="minesweeper_prev_2.png" width="300" height="200">
+
+
+
+<!-- ![Minesweeper preview 1](minesweeper_prev_3.png) -->
 
 
 - If you reveal all safe tiles, the message "You Win!" appears. If you click a mine, "You Lost!" appears.
@@ -26,4 +31,4 @@ This is a **Minesweeper game** implemented in Java using the **Processing** libr
 
 ## Installation & Running the Game
 1. Clone the repo 
-2. Build and run the program using Gradle with the command line argument 'args="x"', replacing x with the desired integer number of mines.
+2. Build and run the program using Gradle with the command line argument 'args="x"', replacing x wit the desired integer number of mines.
